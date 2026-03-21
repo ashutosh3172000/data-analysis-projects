@@ -1,86 +1,67 @@
-# Hi, I'm Ashutosh Tiwari
+# 📊 Ashutosh Tiwari – Data Analysis Portfolio
 
-Aspiring Data Analyst with hands-on experience in **SQL, Python, Excel, and Power BI**.  
-Passionate about turning raw data into actionable insights through data analysis and visualization.
-
-Location: Burhanpur, Madhya Pradesh, India
-
-Email: ashut31072000@gmail.com
+Hi 👋, I'm **Ashutosh Tiwari**
+Aspiring **Data Analyst** skilled in Python, SQL, Excel, and Power BI.
 
 ---
 
-## Skills
+## 🔍 About Me
 
-SQL  
-Python (Pandas, NumPy, Matplotlib)  
-Power BI  
-MS Excel  
-Tableau (Basic)  
-Data Cleaning  
-Data Visualization  
-Exploratory Data Analysis
+I specialize in:
+
+* Cleaning and analyzing real-world datasets
+* Writing efficient SQL queries
+* Building dashboards and visualizations
+* Generating actionable business insights
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-### SQL Movie Database Analysis
-Analyzed movie dataset using **15+ SQL queries**.
+### 📈 Sales Performance Dashboard
 
-Key Analysis:
-- Top rated movies
-- Genre performance
-- Revenue analysis
-- Window function ranking
+* Built an interactive Power BI dashboard to track sales and profit trends
+* Identified top-performing regions and loss-making products
+* Improved business decision-making through visual insights
 
-Tools: SQL
+**Tools:** Power BI, Excel
 
 ---
 
-### Sales Performance Analysis
-Analyzed sales dataset to identify trends.
+### 🎬 Movie Database Analysis
 
-Key Insights:
-- Sales by region
-- Profit by category
-- Monthly sales trends
-- Top customers
+* Analyzed movie dataset using 15+ SQL queries
+* Identified top-rated movies and revenue trends
+* Discovered genre-based performance patterns
 
-Tools: Excel
+**Tools:** SQL
 
 ---
 
-### Business Insights Dashboard
-Created interactive Power BI dashboard for sales analysis.
+### 📉 Customer Churn Analysis
 
-Features:
-- KPI tracking
-- Regional analysis
-- Category insights
+* Performed exploratory data analysis on telecom dataset
+* Identified key factors affecting customer churn
+* Created visualizations to highlight customer behavior
 
-Tools: Power BI
+**Tools:** Python (Pandas, Matplotlib)
 
 ---
 
-### Customer Churn Analysis
-Performed exploratory data analysis on telecom churn dataset.
+## 🛠️ Technical Skills
 
-Key Analysis:
-- Customer churn rate
-- Contract type analysis
-- Monthly charges vs churn
-
-Tools: Python, Pandas, Matplotlib
+* **Languages:** Python, SQL
+* **Visualization:** Power BI, Tableau
+* **Tools:** Excel
+* **Concepts:** EDA, Data Cleaning, Data Visualization
 
 ---
 
-## GitHub Repository
+## 📫 Contact
 
-Data Analysis Projects  
-https://github.com/ashutosh3172000/data-analysis-projects
+📧 Email: [tiwariashu3107@gmail.com](mailto:tiwariashu3107@gmail.com)
+🔗 GitHub: https://github.com/ashutosh3172000
 
 ---
 
-## Career Goal
-
-Seeking entry-level **Data Analyst opportunities** to apply data analytics skills in solving real-world business problems.
+⭐ *If you like my work, consider giving a star to the repository!*
