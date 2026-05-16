@@ -48,6 +48,16 @@ I specialize in:
 
 ---
 
+### 🛒 Online Bookstore SQL Analysis
+
+- Designed a normalised 3-table relational database (Books, Customers, Orders) with primary and foreign key constraints
+- Wrote 20+ queries covering JOINs, GROUP BY, HAVING, COALESCE, and subqueries
+- Surfaced insights on top-spending customers, best-selling genres, and real-time stock levels after order fulfilment
+
+**Tools:** SQL, PostgreSQL
+
+---
+
 ## 🛠️ Technical Skills
 
 * **Languages:** Python, SQL
